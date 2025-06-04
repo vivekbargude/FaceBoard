@@ -123,7 +123,7 @@ We welcome contributions to improve functionality and performance.
 
 ## Credits
 
-Developed by: **\Vivek Bargude**
+Developed by: **Vivek Bargude**
 
 Inspired by accessibility challenges and advancements in facial gesture interfaces.
 
