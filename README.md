@@ -27,11 +27,11 @@ This project leverages **OpenCV**, **dlib**, and facial landmark detection to im
 
 ## Features
 
-*✅ Real-time facial landmark detection
-*✅ Virtual keyboard grid with character highlighting
-*✅ Blink-controlled character selection
-*✅ Column-row scanning mechanism
-*✅ Works on standard webcam input
+✅ Real-time facial landmark detection
+✅ Virtual keyboard grid with character highlighting
+✅ Blink-controlled character selection
+✅ Column-row scanning mechanism
+✅ Works on standard webcam input
 
 ---
 
