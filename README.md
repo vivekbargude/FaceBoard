@@ -42,8 +42,8 @@ Follow these steps to run the project locally on your machine.
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/your-username/facial-keyboard.git
-cd facial-keyboard
+git clone https://github.com/vivekbargude/FaceBoard.git
+cd FaceBoard
 ```
 
 ---
@@ -114,7 +114,7 @@ We welcome contributions to improve functionality and performance.
 2. Clone it:
 
    ```bash
-   git clone https://github.com/your-username/facial-keyboard.git
+   git clone https://github.com/vivekbargude/FaceBoard.git
    ```
 3. Make your changes and test locally
 4. Submit a pull request
@@ -123,10 +123,9 @@ We welcome contributions to improve functionality and performance.
 
 ## Credits
 
-Developed by: **\[Your Name]**
+Developed by: **\Vivek Bargude**
 
 Inspired by accessibility challenges and advancements in facial gesture interfaces.
 
 ---
 
-Let me know if you'd like a Markdown version of this for GitHub or a PDF for offline distribution!
